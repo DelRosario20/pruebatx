@@ -1,0 +1,46 @@
+%0 Journal Article
+%T Estudio comparativo de los créditos otorgados a la actividad productiva por la banca pública y privada en la troncal, Ecuador
+%V 10
+%N 2
+%P 310-328
+%* http://creativecommons.org/licenses/by/4.0
+%U https://revistas.upt.edu.pe/ojs/index.php/vestsc/article/view/569
+%X The relevance of the subject of study is derived from the purpose of developing better measures of economic growth in the Canton La Troncal, the productive credits granted in the public and private financial institutions of the country being decisive for its scope, with which it seeks to achieve what is stated in Sustainable Development Goal 8 "Promote sustained, inclusive and sustaina ble economic growth, full and productive employment, and decent work for all." For this, the Ecuadorian State uses different norms or laws such as the Productive Development Law, which is oriented towards favoring the credit and payment measures of entrepreneurs to attract new investments, it can be indicated that this form of action or intervention has a deep mercantile theoretical approach due to the need for government intervention to generate wealth in the factors of production. For its part, the study presents a theoretical justification due to the importance of credit facilities to encourage the projects of different nations and how slow progress in the economy would be caused if these benefits impose inappropriate mechanisms. In addition, a methodological justification based on descriptive research with a quantitative approach is presented, since a survey was applied to 68 entrepreneurs and an interview was carried out with 2 private and 2 public financial institutions, which will serve as the basis for the development of future studies. that show a topic and research phenomenon similar to the one exposed in this research.
+%G es
+%J REVISTA VERITAS ET SCIENTIA - UPT
+%A Córdova Uzhca, Jessica Mariela
+%D 2021-11-30
+
+%0 Journal Article
+%T Factores determinantes del crecimiento económico en el Ecuador
+%V 7
+%N 5-1
+%P 282-290
+%* Derechos de autor 2022 Lissette Fernanda Alvarado-Barrera, Sidia Elizabeth Vera-Gutiérrez , Erika Sonia Quiñonez-Alvarado
+%U https://www.593dp.com/index.php/593_Digital_Publisher/article/view/1359
+%X One of the most interesting and relevant factors in terms of macroeconomic results is related to economic growth. This represents the increase or improvement of goods and services of a state and is defined as the purely transformation process in which a country increases its wealth over time; that not only involves the increase of money, but also the generation of value or wealth of a country and for current economists, all the theories, models and bases of classic and modern economic growth have allowed to converge in that the causes of it are diverse but can be grouped into 3 particularities. The first is that investment is essential for growth to exist, the second is that the education of the population is a determining factor in increasing production, and the third agrees that the technological process is decisive in obtaining greater productivity. Thus, economic growth can be broken down into two factors: the accumulation of productive factors and technological progress, and it is for this reason that this article aims to identify the determining factors of economic growth in Ecuador. This research presents a descriptive methodology and used official statistical information from entities such as the BCE and INEC to verify that the policies adopted have focused on the increase of cumulative factors oriented towards taking advantage of the opportunities of green growth, which has allowed the reactivation economy and stable growth of the country.
+%G es
+%J 593 Digital Publisher CEIT
+%A Alvarado-Barrera, Lissette
+%A Vera-Gutiérrez, Sidia
+%A Quiñonez-Alvarado, Erika
+%D 2022-09-25
+%K producto interno bruto
+
+%0 Journal Article
+%T Relación entre el volumen de crédito bancario y el crecimiento económico en el Ecuador: 2010 al 2020.
+%V 11
+%N 41
+%P 25-43
+%* Derechos de autor 2024 Rosa Cajamarca Nugra, Jorge García Bacuilima, Antonio Pérez-Torres, Luis Tobar Pesántez
+%U https://revistapublicando.org/revista/index.php/crv/article/view/2404
+%X This research was carried out with the purpose of determining the relationship between commercial credit, consumer credit, housing credit and microcredit of public and private banking institutions, with the economic growth measured through the Gross Domestic Product in Ecuador. The research is quantitative and non-experimental with an exploratory, descriptive and correlational scope. Data obtained from secondary sources such as the World Bank and the Superintendence of Banks and Insurance were used. Using SPSS Statistics Version 25.0.0 software, a statistical analysis of the data was carried out over a period of 11 years, from 2010 to 2020. The volume of commercial credit, consumer credit, housing credit and microcredit was defined as the independent variable and Gross Domestic Product as the dependent variable, the inductive-deductive method was applied, as well as the technique of record review and documentary research. The results obtained indicate that it is possible to determine the relationship between the commercial, consumer, housing and microcredit segments and the Gross Domestic Product in Ecuador; however, significant relationships were not obtained in all credit segments, but direct relationships were obtained.
+%G es
+%J Revista Publicando
+%A Nugra, Rosa Cajamarca
+%A Bacuilima, Jorge García
+%A Pérez-Torres, Antonio
+%A Pesántez, Luis Tobar
+%D 2024-01-20
+%K Sistema Financiero
+
